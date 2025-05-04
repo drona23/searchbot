@@ -1,0 +1,4 @@
+openai>=1.0.0
+gradio>=4.0.0
+python-dotenv>=1.0.0
+gTTS>=2.3.0       # if you plan to use voice features from main.py
